@@ -1,13 +1,15 @@
 <br />
 <p align="center">
-  <a href="https://voto.vote">
+  <a href="https://github.com/strobsi/awesome-team-building">
     <img src="./media/logo.svg" alt="Logo" width="50%" height="auto">
   </a>
 
   <h3 align="center">Awesome team building - remote</h3>
 </p>
 
-A curated list of awesome team building online games
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of awesome games for remote team building events.
 
 ### [2-lies-one-truth]()
 
@@ -30,7 +32,6 @@ Game, where one player tries to sketch up some word/sentence. The others have to
 ### [Among Us]()
 
 Nice to play having a digital meetup in parallel.
-›
 
 ### [SecretHitler](https://secret-hitler.com/)
 
