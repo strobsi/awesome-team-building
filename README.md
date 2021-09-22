@@ -1,4 +1,11 @@
-# awesome-team-building
+<br />
+<p align="center">
+  <a href="https://voto.vote">
+    <img src="./media/logo.svg" alt="Logo" width="50%" height="auto">
+  </a>
+
+  <h3 align="center">Awesome team building - remote</h3>
+</p>
 
 A curated list of awesome team building online games
 
