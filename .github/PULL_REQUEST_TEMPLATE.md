@@ -14,6 +14,6 @@ _not every repository (project) will fit into every option, but most projects sh
 - [ ] I have an appropriate description with correct grammar.
 - [ ] I know that this package was not listed before.
 - [ ] I have added link to the project/game and to my pull request.
-- [ ] I have read [Contribution guidelines](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md#contribution-guidelines), [maintainers note](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md#maintainers) and [Quality standard](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md#quality-standards).
+- [ ] I have read [Contribution guidelines](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md#contribution-guidelines) and [Quality standard](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md#quality-standards).
 
 Thanks for your PR, you're awesome! :+1:
