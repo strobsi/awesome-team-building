@@ -13,7 +13,7 @@ A curated list of awesome games for remote team building events.
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/strobsi/awesome-team-building/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/strobsi/awesome-team-building/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/strobsi/awesome-team-building/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/strobsi/awesome-team-building/graphs/contributors); you rock!
 
 #### _If you see a project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
