@@ -55,6 +55,7 @@ _Puzzles, quizes and more_
 
 - [101AndOut](https://rolladie.net/) - Using a simple die - this game can be played also in digital meetups. Instructions: https://sunshinebeachss.eq.edu.au/Supportandresources/Formsanddocuments/Documents/Homework/Place%20value/101-and-out.pdf
 - [EscapeTheBoom](https://escape-the-boom.com) - Escape game, which can traditionally is played on one device - but can be used by others
+- [GeoGuessr](https://www.geoguessr.com/) - Geo Guesssing. Try to orientate yourself in Google Maps. Fastest gets the most points
 - [Scattergories](https://scattergoriesonline.net/) - One letter - five categories. Find words fitting them
 - [StadtLandFluss](https://stadtlandfluss.cool) - The classic. Online.
 - [TypingSpeed](https://typing-speed.net/) - Who can write the best using the keyboard
