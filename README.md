@@ -48,7 +48,7 @@ _Games, where you can get to know new employees_
 
 - [2-lies-one-truth]() - All participants invent two lies about themselves and one truth, which also seems like a lie. The group can then guess, which is what. `We just used to ask our team within our communication channels -> then created some slides out of it and guessed.`
 - [10ThingsToDoInLive]() - Everyone writes down 10 things, he/she still wants to do in his life.
-- [Quizbreaker](quizbreaker.com) - Answering icebreaker questions and guessing them together.
+- [Quizbreaker](https://quizbreaker.com) - Answering icebreaker questions and guessing them together.
 
 ## Puzzles
 
