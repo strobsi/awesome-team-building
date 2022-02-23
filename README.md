@@ -30,6 +30,7 @@ _Either one or the whole group draws_
 
 - [GarticPhone](https://garticphone.com/de) - The participants create a sentence, which has to be drawn by the others and vice versa.
 - [Scribbl](https://skribbl.io/) - One player tries to sketch up some word/sentence. The others have to guess.
+- [Quickdraw](https://quickdraw.withgoogle.com/) - Draw and have your drawings judged by an AI. The one, where the AI guesses right wins.
 
 ## Games
 
