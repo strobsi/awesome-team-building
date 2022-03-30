@@ -43,6 +43,7 @@ _Games, social games or fun games which can be played good together_
 - [PowerPointKaraoke](https://kapopo.de/spielen.html) - Present slides you never heard off.
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
 - [Powerline](http://powerline.io/) - Snake - together with friends. 
+- [TheWikiGame](https://www.thewikigame.com/) - Navigate from one random wikipedia page to another in a group challenge
 
 ## Get To Know's
 
