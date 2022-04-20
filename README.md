@@ -44,6 +44,7 @@ _Games, social games or fun games which can be played good together_
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
 - [Powerline](http://powerline.io/) - Snake - together with friends. 
 - [TheWikiGame](https://www.thewikigame.com/) - Navigate from one random wikipedia page to another in a group challenge
+- [WordsGame](https://slack.com/apps/ALNK95FB7-wordsgame?tab=more_info) - SCRIBBLE like game to find words within a character array and type them into a slack channel. 
 
 ## Get To Know's
 
