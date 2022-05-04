@@ -44,6 +44,7 @@ _Games, social games or fun games which can be played good together_
 - [PowerPointKaraoke](https://kapopo.de/spielen.html) - Present slides you never heard off.
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
 - [Powerline](http://powerline.io/) - Snake - together with friends. 
+- [Taboo](https://playtaboo.app/) Taboo online
 - [TheWikiGame](https://www.thewikigame.com/) - Navigate from one random wikipedia page to another in a group challenge
 - [WordsGame](https://slack.com/apps/ALNK95FB7-wordsgame?tab=more_info) - SCRIBBLE like game to find words within a character array and type them into a slack channel. 
 
