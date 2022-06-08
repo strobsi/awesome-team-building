@@ -44,10 +44,10 @@ _Games, social games or fun games which can be played good together_
 - [PowerPointKaraoke](https://kapopo.de/spielen.html) - Present slides you never heard off.
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
 - [Powerline](http://powerline.io/) - Snake - together with friends. 
+- [Psych!](https://apps.apple.com/us/app/psych-outwit-your-friends/id1005765746) Android and iOS app to trick team mates by creating fake answers for real questions. One is psyched when selecting a fake answer from the colleagues instead of the real one. 
 - [Taboo](https://playtaboo.app/) Taboo online
 - [TheWikiGame](https://www.thewikigame.com/) - Navigate from one random wikipedia page to another in a group challenge
 - [WordsGame](https://slack.com/apps/ALNK95FB7-wordsgame?tab=more_info) - SCRIBBLE like game to find words within a character array and type them into a slack channel. 
-- [Psych!](https://apps.apple.com/us/app/psych-outwit-your-friends/id1005765746) Android and iOS app to trick team mates by creating fake answers for real questions. One is psyched when selecting a fake answer from the colleagues instead of the real one. 
 
 ## Get To Know's
 
