@@ -35,7 +35,7 @@ _Either one or the whole group draws_
 ## Games
 
 _Games, social games or fun games which can be played good together_
-
+- [Agar.io](https://agar.io/) - game similar to snake (powerline) - using circles instead of snakes
 - [AllBad.Cards](https://allbad.cards/) - Funny guessing game with pictures/attributes/memes
 - [Among Us](https://www.epicgames.com/store/de/p/among-us) - Either iOS or Android - best with digital meetup in parallel
 - [CardsAgainstHumanity](https://picturecards.online/) - PictureCards is a free way to play cards against humanity
