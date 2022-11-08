@@ -40,6 +40,7 @@ _Games, social games or fun games which can be played good together_
 - [Among Us](https://www.epicgames.com/store/de/p/among-us) - Either iOS or Android - best with digital meetup in parallel
 - [CardsAgainstHumanity](https://picturecards.online/) - PictureCards is a free way to play cards against humanity
 - [CodeNames](https://codenames.game/) - Play within a team aginst the other team
+- [CurveFever](https://curvefever.pro/) - Move around in curves - don't hit the others
 - [GeoTastic](https://geotastic.net/) - Play geoguessing
 - [PowerPointKaraoke](https://kapopo.de/spielen.html) - Present slides you never heard off.
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
