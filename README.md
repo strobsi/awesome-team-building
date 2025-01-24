@@ -39,6 +39,7 @@ _Games, social games or fun games which can be played good together_
 - [AllBad.Cards](https://allbad.cards/) - Funny guessing game with pictures/attributes/memes
 - [Among Us](https://www.epicgames.com/store/de/p/among-us) - Either iOS or Android - best with digital meetup in parallel
 - [CardsAgainstHumanity](https://picturecards.online/) - PictureCards is a free way to play cards against humanity
+- [BlastFury](https://pixelbrawlgames.com/game/blast//) - Like Bomberman, but against the whole internet! 
 - [CodeNames](https://codenames.game/) - Play within a team aginst the other team
 - [CurveFever](https://curvefever.pro/) - Move around in curves - don't hit the others
 - [GeoTastic](https://geotastic.net/) - Play geoguessing
