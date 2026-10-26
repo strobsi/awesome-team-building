@@ -42,6 +42,7 @@ _Games, social games or fun games which can be played good together_
 - [BlastFury](https://pixelbrawlgames.com/game/blast//) - Like Bomberman, but against the whole internet! 
 - [CodeNames](https://codenames.game/) - Play within a team aginst the other team
 - [CurveFever](https://curvefever.pro/) - Move around in curves - don't hit the others
+- [Curvytron 2](https://curvytron2.com/) - Steer a trail around a 3D arena and be the last one alive.
 - [GeoTastic](https://geotastic.net/) - Play geoguessing
 - [PowerPointKaraoke](https://kapopo.de/spielen.html) - Present slides you never heard off.
 - [SecretHitler](https://secret-hitler.com/) - Just like werewolf, but with Hitler.
